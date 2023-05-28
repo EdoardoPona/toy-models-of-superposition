@@ -1,2 +1,1 @@
-# toy-models-of-superposition
-Notebooks accompanying Anthropic's "Toy Models of Superposition" paper
+Framework to train toy models like anthropic 
